@@ -6,3 +6,6 @@ C:\Users\court_000\Documents\Visual Studio 2010\Projects\Lab2CW\Lab2CW\obj\x86\D
 C:\Users\court_000\Documents\Visual Studio 2010\Projects\Lab2CW\Lab2CW\obj\x86\Debug\Lab2CW.exe
 C:\Users\court_000\Documents\Visual Studio 2010\Projects\Lab2CW\Lab2CW\obj\x86\Debug\Lab2CW.xml
 C:\Users\court_000\Documents\Visual Studio 2010\Projects\Lab2CW\Lab2CW\obj\x86\Debug\Lab2CW.pdb
+C:\Users\court_000\Desktop\ITCS-1810\Lab2CW\Lab2CW\obj\x86\Debug\Lab2CW.exe
+C:\Users\court_000\Desktop\ITCS-1810\Lab2CW\Lab2CW\obj\x86\Debug\Lab2CW.xml
+C:\Users\court_000\Desktop\ITCS-1810\Lab2CW\Lab2CW\obj\x86\Debug\Lab2CW.pdb
